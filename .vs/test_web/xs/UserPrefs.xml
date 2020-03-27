@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{051807DB-AE35-4F57-A26A-E8F1E00E1E30}|Default">
+  <MonoDevelop.Ide.ItemProperties.test__web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="test_web/Startup.cs">
+    <Files>
+      <File FileName="test_web/Startup.cs" Line="40" Column="1" />
+      <File FileName="test_web/Controllers/WeatherForecastController.cs" Line="26" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test_web" expanded="True">
+            <Node name="test_web" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
